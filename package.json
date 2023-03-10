@@ -1,0 +1,16 @@
+{
+  "name": "my-node-server",
+  "version": "1.0.0",
+  "description": "This is a first version of a simple node.js server, which would enable management of different sensors of a Raspberry Pi device. The prototype should serve as an example how easy and fun IoT can be.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "iot",
+    "raspberryPi"
+  ],
+  "author": "Gergana Germanova",
+  "license": "ISC"
+}
